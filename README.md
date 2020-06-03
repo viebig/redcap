@@ -36,7 +36,7 @@ redcap.records.export (function (err, res) {
   else {
     console.log (res);    
   }
-};
+});
 ```
 
 ## Next Steps
